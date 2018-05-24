@@ -1,12 +1,12 @@
 body{
 	background: url(pics/BG.jpg) no-repeat fixed center top 20% / 100% auto white;
-	background-color: #4557A5 !important;;
+	background-color: #000000 !important;;
 	min-width: 1000px;
 }
 
 div.board{
 	background: transparent;
-	border:#007BFF 5px solid;
+	border:#000000 5px solid;
 	width:490px;
 	height:660px;
 	padding:24px;
@@ -48,7 +48,7 @@ div.board > div{
 
 .leadertable{
 	vertical-align: top;
-	background-color: #007BFF;
+	background-color: #000000;
 	color: #FFF;
 	border:#999 5px solid;
 	vertical-align: middle;
@@ -64,8 +64,8 @@ div.board > div{
 
 .input{
 	display: none;
-	border: 1px solid #007BFF !important;
-	background-color: #007BFF !important;
+	border: 1px solid #000000 !important;
+	background-color: #000000 !important;
 	color: #FFF !important;
 	margin-left: 5px;
 	margin-bottom: 5px;
@@ -93,9 +93,9 @@ div.board > div{
 
 .choose_rubashka{
 	background: transparent;
-	border-left: #007BFF 5px solid;
-	border-bottom: #007BFF 5px solid;
-	border-right: #007BFF 5px solid;
+	border-left: #000000 5px solid;
+	border-bottom: #000000 5px solid;
+	border-right: #000000 5px solid;
 	width:650px;
 	height:180px;
 	padding:24px;
@@ -125,7 +125,7 @@ div.board > div{
 .diff{
 	list-style-type: none;
 	cursor:pointer;
-	background-color: #007BFF;
+	background-color: #000000;
 }
 
 .diff a{
@@ -141,7 +141,7 @@ div.board > div{
 	color: white;
 }
 
-.btn-primary {
+.btn-dark {
     color: #fff;
     background-color: #CCC;
     border-color: #CCC;
@@ -175,7 +175,7 @@ div.board > div{
 }
 
 .card {
-  background: #007BFF !important;
+  background: #000000 !important;
   border-radius: 2px;
   height: 25px;
   margin: 1rem;
@@ -199,14 +199,14 @@ div.board > div{
 	display: inline-block;
 	margin-left: 5px;
 	margin-bottom: 7px;
-	color: #007BFF;
+	color: #000000;
 	font-size: 20pt;
 	height: 30px;
 }
 
 .secondometr > span {
-	border: 1px solid #007BFF !important;
-	background-color: #007BFF !important;
+	border: 1px solid #000000 !important;
+	background-color: #000000 !important;
 	color: #FFF !important;
 	padding-left: 5px;
 	padding-right: 5px;
